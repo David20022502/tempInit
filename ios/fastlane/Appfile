@@ -1,0 +1,8 @@
+app_identifier("org.reactjs.native.example.tempInit") # The bundle identifier of your app
+apple_id("ti.support@moneyblinks.com") # Your Apple email address
+
+itc_team_id("122982544") # App Store Connect Team ID
+team_id("S3VJ7AHNB7") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
